@@ -1,4 +1,6 @@
 # JYp
+### 运行命令如下
+```
 echo "#Termux运行"
 echo " "
 echo "#Termux operation"
@@ -19,3 +21,4 @@ echo "git clone https://github.com/Beiyang5325/JYp"
 echo "pip install flask"
 echo "cd JYp"
 echo "python jyp.py"
+```
