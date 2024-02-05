@@ -38,7 +38,7 @@ def upload_file():
     <!doctype html>
     <html>
     <head>
-        <title>飓风云-简单云</title>
+        <title>狐云科技-简单云</title>
         <link rel="shortcut icon" href="http://juyp.hucl.link/f/WjtZ/20231118_014550_0000.png" type="image/x-icon">
         <style>
             body {{
@@ -81,7 +81,7 @@ def upload_file():
         </style>
     </head>
     <body>
-        <h1>飓风云-简单云</h1>
+        <h1>狐云科技-简单云</h1>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <form method=post enctype=multipart/form-data>
             <input type=file name=file>
