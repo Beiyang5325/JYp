@@ -8,7 +8,7 @@
 ## 运行命令如下
 
 ### Termux运行
-```
+```ruby
 pkg update
 pkg install -y python vim python-pip git
 git clone https://github.com/Beiyang5325/JYp
@@ -19,7 +19,7 @@ python jyp.py
 
 
 ### 其他linux发行版远行
-```
+```ruby
 apt update
 apt install -y python vim git
 git clone https://github.com/Beiyang5325/JYp
