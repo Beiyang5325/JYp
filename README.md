@@ -13,6 +13,7 @@ git clone https://github.com/Beiyang5325/JYp
 pip install flask
 cd JYp
 python jyp.py
+```
 
 
 ### 其他linux发行版远行
