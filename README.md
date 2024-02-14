@@ -71,3 +71,42 @@ cd JYp
 ```ruby
 python jyp.py
 ```
+
+
+<head>
+    <style>
+        .myButton {
+            display: inline-block;
+            padding: 8px 16px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #3498db;
+            color: white;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .myButton:hover {
+            background-color: #2980b9;
+        }
+
+        .infoBox {
+            padding: 24px;
+            border-radius: 12px;
+            margin: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+            position: relative;
+            text-align: center;
+            width: fit-content;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="infoBox">
+        <p>加入官群：<br><a href="https://qm.qq.com/q/ZOvfOoGQqQ" class="myButton">点击这里</a></p>
+    </div>
+</body>
