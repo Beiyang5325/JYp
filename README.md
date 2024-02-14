@@ -65,6 +65,7 @@ pip install flask
 5. 进入目录
 ```ruby
 cd JYp
+```
 
 6. 运行脚本，启动服务
 ```ruby
