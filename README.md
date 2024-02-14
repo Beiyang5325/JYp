@@ -38,7 +38,7 @@ cd JYp
 python jyp.py
 ```
 
-<br><br><br><br>
+<br><br><br>
 
 
 ### 其他linux发行版远行
