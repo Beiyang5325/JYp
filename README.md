@@ -28,7 +28,6 @@ git clone https://github.com/Beiyang5325/JYp
 ```ruby
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
-<br>
 ```ruby
 pip install flask
 ```
