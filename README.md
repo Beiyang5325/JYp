@@ -62,6 +62,10 @@ git clone https://github.com/Beiyang5325/JYp
 ```
 
 4. 安装Python库，确保能正常执行这个脚本
+（我嫌弃慢的话可以换一下pip源）
+```ruby
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+```
 ```ruby
 pip install flask
 ```
